@@ -6,6 +6,13 @@ h1 {
   font-size: 12pt;
   font-family: "Times New Roman";
   font-style: normal;
+  text-align: center;
+}
+
+.centred {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 ol {
