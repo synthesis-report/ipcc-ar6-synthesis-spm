@@ -40,9 +40,10 @@ a {
   text-decoration: none;
 }
 
+a,
 a:link,
 a:visited {
-  color: #000;
+  color: inherit;
 }
 
 .centred {
