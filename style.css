@@ -86,6 +86,9 @@ a:visited {
 .orange-box {
   border: 1px solid #000;
   background-color: #f7cbac;
+  font-weight: bold;
+  padding-left: 0.5em;
+  padding-right: 0.5em;
 }
 
 .blue-box {
