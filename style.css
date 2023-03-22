@@ -15,6 +15,11 @@ h1 {
   align-items: center;
 }
 
+.box {
+  border: 1px solid #000;
+  padding: 0.5em;
+}
+
 .orange-box {
   border: 1px solid #000;
   background-color: #f7cbac;
